@@ -8,6 +8,7 @@
 install.packages("dplyr")
 library(dplyr)
 
-# Starting analysis
 
+# Starting analysis
+head(fullDisturbanceLambdaTable_v3)
 
